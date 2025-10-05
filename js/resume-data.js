@@ -14,7 +14,7 @@ const resumeData = {
             "Full Stack Engineer",
             "Problem Solver",
             "Code Enthusiast",
-            "Coffee Converter" // Funny one!
+            "Soduku Savage"
         ]
     },
     
