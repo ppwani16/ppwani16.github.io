@@ -3,9 +3,9 @@
 
 const resumeData = {
     personal: {
-        name: "Your Name",
+        name: "Pradnya Wani",
         title: "Software Developer",
-        email: "your.email@example.com",
+        email: "ppwani16@gmail.com",
         github: "https://github.com/yourusername",
         linkedin: "https://linkedin.com/in/yourprofile",
         bio: "Passionate software developer with expertise in full-stack development. I love building elegant solutions to complex problems and creating seamless user experiences.",
