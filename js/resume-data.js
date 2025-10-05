@@ -20,21 +20,19 @@ const resumeData = {
     
     experience: [
         {
-            position: "Senior Software Developer",
-            company: "Tech Company Inc.",
-            duration: "2022 - Present",
-            description: "Led development of scalable web applications serving 100K+ users. Architected microservices infrastructure and mentored junior developers.",
+            position: "Software Development Intern",
+            company: "J.B.Hunt",
+            duration: "2023-2025",
+            description: "",
             achievements: [
-                "Reduced API response time by 40%",
-                "Implemented CI/CD pipeline",
-                "Mentored 5 junior developers"
+                
             ],
             technologies: ["Java", "Spring Boot", "React", "AWS", "Docker"]
         },
         {
-            position: "Software Developer",
-            company: "Startup Solutions",
-            duration: "2020 - 2022",
+            position: "Software Development Intern",
+            company: "Baker Group",
+            duration: "Summer of 2022",
             description: "Developed features for enterprise SaaS platform. Collaborated with cross-functional teams to deliver high-quality products.",
             achievements: [
                 "Built RESTful APIs",
