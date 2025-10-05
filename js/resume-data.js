@@ -27,7 +27,7 @@ const resumeData = {
             achievements: [
                 
             ],
-            technologies: ["Java", "Spring Boot", "React", "AWS", "Docker"]
+            technologies: ["Java", "Spring Boot"]
         },
         {
             position: "Software Development Intern",
@@ -35,23 +35,9 @@ const resumeData = {
             duration: "Summer of 2022",
             description: "Developed features for enterprise SaaS platform. Collaborated with cross-functional teams to deliver high-quality products.",
             achievements: [
-                "Built RESTful APIs",
-                "Implemented authentication system",
-                "Improved code coverage to 80%"
+                
             ],
-            technologies: ["JavaScript", "Node.js", "MongoDB", "React"]
-        },
-        {
-            position: "Junior Developer",
-            company: "Code Academy",
-            duration: "2019 - 2020",
-            description: "Worked on various client projects, gaining experience in web development and software engineering best practices.",
-            achievements: [
-                "Completed 10+ client projects",
-                "Learned TDD practices",
-                "Contributed to open source"
-            ],
-            technologies: ["HTML", "CSS", "JavaScript", "Python"]
+            technologies: []
         }
     ],
     
@@ -124,7 +110,8 @@ const chatConfig = {
     
     // Option 2: Use free alternatives (comment out if using OpenAI)
     // For demo purposes, you can use a fallback keyword-based system
-    useFallback: false,
+    useFallback: true,
+    useOpenAI: false,
     
     maxTokens: 500,
     temperature: 0.9 // Higher = more creative/funny responses
